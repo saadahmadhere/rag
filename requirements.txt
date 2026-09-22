@@ -16,3 +16,5 @@ pandas
 openpyxl
 msoffcrypto-tool
 jq
+matplotlib
+numpy
