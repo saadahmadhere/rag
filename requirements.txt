@@ -22,3 +22,4 @@ dotenv
 ## Embedddings
 langchain-huggingface
 sentence-transformers
+langchain_experimental
