@@ -19,7 +19,10 @@ jq
 matplotlib
 numpy
 dotenv
+langchain_classic
+
 ## Embedddings
 langchain-huggingface
 sentence-transformers
 langchain_experimental
+rank_bm25
